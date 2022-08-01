@@ -1,2 +1,2 @@
-# Rio-Do-Meio-Aula-De-Segunda
+# RioDoMeioAulaDeSegunda
 Projeto Pensamento Computacional Do Colégio Estadual Do Campo Rio Do Meio.
